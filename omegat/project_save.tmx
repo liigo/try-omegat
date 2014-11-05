@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>A 30-minute Introduction to Rust</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T140802Z" creationid="LIIGO" creationdate="20141105T140802Z">
+        <seg>花三十分钟了解Rust语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hello RustCC (Rust Chinese Community).</seg>
       </tuv>
       <tuv lang="ZH" changeid="LIIGO" changedate="20141105T134613Z" creationid="LIIGO" creationdate="20141105T134605Z">
