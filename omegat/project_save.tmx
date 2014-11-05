@@ -4,6 +4,30 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hello RustCC (Rust Chinese Community).</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T134613Z" creationid="LIIGO" creationdate="20141105T134605Z">
+        <seg>亲爱的Rust中文圈的朋友们你们好吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hi OmegaT!</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T134711Z" creationid="LIIGO" creationdate="20141105T134539Z">
+        <seg>嘿，哦买告的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is Liigo.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T134703Z" creationid="LIIGO" creationdate="20141105T134703Z">
+        <seg>我是人见人爱花见花开的Liigo呀！</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
