@@ -56,6 +56,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you'd like to anyway, check out the homepage for explanation.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T140125Z" creationid="LIIGO" creationdate="20141105T140125Z">
+        <seg>如果你喜欢，可随时来官方网站了解更多信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rust is a modern systems programming language focusing on safety and speed.</seg>
       </tuv>
       <tuv lang="ZH" changeid="LIIGO" changedate="20141105T140021Z" creationid="LIIGO" creationdate="20141105T140021Z">
