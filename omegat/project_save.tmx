@@ -9,7 +9,17 @@
         <seg>A 30-minute Introduction to Rust</seg>
       </tuv>
       <tuv lang="ZH" changeid="LIIGO" changedate="20141105T140802Z" creationid="LIIGO" creationdate="20141105T140802Z">
-        <seg>花三十分钟了解Rust语言</seg>
+        <seg>三十分钟认识Rust语言</seg>
+      </tuv>
+      <tuv>
+        <seg>- secret 1: blablabla
+- secret 2: fooo
+- secret 3: barbar</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T135612Z" creationid="LIIGO" creationdate="20141105T135612Z">
+        <seg>- secret 1: blablabla
+- secret 2: fooo（这句该怎么翻译呢，愁人）
+- secret 3: barbar</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +36,14 @@
       </tuv>
       <tuv lang="ZH" changeid="LIIGO" changedate="20141105T134711Z" creationid="LIIGO" creationdate="20141105T134539Z">
         <seg>嘿，哦买告的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm telling you three secrets:</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T135509Z" creationid="LIIGO" creationdate="20141105T135509Z">
+        <seg>我要送你三个大咪咪：</seg>
       </tuv>
     </tu>
     <tu>
