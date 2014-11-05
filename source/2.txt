@@ -1,0 +1,9 @@
+A 30-minute Introduction to Rust
+
+Rust is a modern systems programming language focusing on safety and speed. It accomplishes these goals by being memory safe without using garbage collection.
+
+This introduction will give you a rough idea of what Rust is like, eliding many details. It does not require prior experience with systems programming, but you may find the syntax easier if you've used a 'curly brace' programming language before, like C or JavaScript. The concepts are more important than the syntax, so don't worry if you don't get every last detail: you can read the Guide to get a more complete explanation.
+
+Because this is about high-level concepts, you don't need to actually install Rust to follow along. If you'd like to anyway, check out the homepage for explanation.
+
+To show off Rust, let's talk about how easy it is to get started with Rust. Then, we'll talk about Rust's most interesting feature, ownership, and then discuss how it makes concurrency easier to reason about. Finally, we'll talk about how Rust breaks down the perceived dichotomy between speed and safety.
