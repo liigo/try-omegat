@@ -24,6 +24,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A 30-minute Introduction to Rust</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T135918Z" creationid="LIIGO" creationdate="20141105T135918Z">
+        <seg>三十分钟初识Rust语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hello RustCC (Rust Chinese Community).</seg>
       </tuv>
       <tuv lang="ZH" changeid="LIIGO" changedate="20141105T134613Z" creationid="LIIGO" creationdate="20141105T134605Z">
@@ -44,6 +52,14 @@
       </tuv>
       <tuv lang="ZH" changeid="LIIGO" changedate="20141105T135509Z" creationid="LIIGO" creationdate="20141105T135509Z">
         <seg>我要送你三个大咪咪：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rust is a modern systems programming language focusing on safety and speed.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="LIIGO" changedate="20141105T140021Z" creationid="LIIGO" creationdate="20141105T140021Z">
+        <seg>Rust是一款现代的系统级编程语言，专注于安全和速度。</seg>
       </tuv>
     </tu>
     <tu>
